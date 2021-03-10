@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormLogin.resources
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Ana_Kategori.resources
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormAlt_Kategori.resources
+C:\Users\lenovo\Desktop\yeni c# örnekleri\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormUrunEkle.resources
